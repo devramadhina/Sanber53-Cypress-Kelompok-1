@@ -1,0 +1,15 @@
+{
+    "valid-data": {
+        "first-name": "Team 1",
+        "last-name": "Sanbercode-53"
+    },
+    "blank-firstname": {
+        "firstname": "",
+        "lastname": "rizqi"
+    },
+    "blank-lastname": {
+        "firstname": "ichi",
+        "lastname": ""
+    }
+    
+}
