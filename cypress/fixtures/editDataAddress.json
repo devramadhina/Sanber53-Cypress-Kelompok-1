@@ -1,0 +1,15 @@
+{
+    "valid-data": {
+        "first-name": "Sanbercode Batch 53",
+        "last-name": "Team 1",
+        "company": "PT. ABC",
+        "phone": "086627930",
+        "street": "Jl. ABC",
+        "city": "New York",
+        "zip": "67179"
+    },
+    "invalid-data": {   
+        "phone": "phone salah"
+    }
+    
+}
