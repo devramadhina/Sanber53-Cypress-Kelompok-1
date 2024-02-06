@@ -1,0 +1,15 @@
+{
+    "valid-data": {
+        "first-name": "Ramadhina",
+        "last-name": "Trie",
+        "email": "ramadhinatrieananda@gmail.com",
+        "password": "admin@123",
+        "password confirmation": "admin@123"
+    },
+    "invalid-data": {   
+        "email": "ramadhinatrieanandagmail.com",
+        "password confirmation": "admin@",
+        "password": "admin"
+    }
+  
+}

@@ -6,10 +6,13 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     env: {
-      email: "ichiiirs@gmail.com",
-      pwd: "IchiSanber=123"
+      email1: "ichiiirs@gmail.com",
+      pwd: "IchiSanber=123",
+      email2: "ramadhinatrieananda@gmail.com",
+      password: "admin@123"
     },
     defaultCommandTimeout: 5432,
+    viewportHeight: 650,
     pageLoadTimeout: 100000
   },
 });
