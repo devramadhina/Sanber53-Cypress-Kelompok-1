@@ -10,6 +10,7 @@ module.exports = defineConfig({
       pwd: "IchiSanber=123"
     },
     defaultCommandTimeout: 5432,
+    viewportHeight: 650,
     pageLoadTimeout: 100000
   },
 });
