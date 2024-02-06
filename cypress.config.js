@@ -9,7 +9,7 @@ module.exports = defineConfig({
       email1: "ichiiirs@gmail.com",
       pwd: "IchiSanber=123",
       email2: "ramadhinatrieananda@gmail.com",
-      pwd: "Ramadhina@123"
+      password: "admin@123"
     },
     defaultCommandTimeout: 5432,
     viewportHeight: 650,
